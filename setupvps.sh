@@ -1,6 +1,3 @@
-apt install screen
-screen -dmS test
-screen -x test
 sudo add-apt-repository ppa:ethereum/ethereum
 sudo apt update
 sudo apt install ethereum
